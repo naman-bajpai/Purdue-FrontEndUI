@@ -1,29 +1,52 @@
 # Purdue-FrontEndUI
 
+Code is confidential but here is the UI of the project
+
 Login Page: 
+
 <img width="697" alt="image" src="https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/00ced932-d639-489f-ae36-884857ddd55d">
 
 
 Sign up page: 
-![image](https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/92b3e251-3362-417f-b839-6c8c90bf19d1)
+
+<img width="709" alt="image" src="https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/345a76c5-c5a9-4148-bdb9-75b4bd56bac2">
+
 
 
 Home Page: 
-![image](https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/db421ec1-1a79-47bb-9836-95aaa3268153)
+
+
+<img width="716" alt="image" src="https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/d50a3dcd-7ba5-4ac1-9b31-4576b9e20480">
+
 
 
 Connections Page: 
-![image](https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/a7d6b0f3-7261-480d-a961-c40823624230)
+
+
+<img width="773" alt="image" src="https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/21c05993-89c0-4502-bbd0-83c8c72e91c6">
+
 
 
 Message Board: 
-![image](https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/e2aefbfd-3a15-4910-9a8f-5ff31d4fcd3c)
+
+
+<img width="633" alt="image" src="https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/172f464e-f3ce-498b-8033-b99f991ab0ac">
+
 
 Personal Profile: 
-![image](https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/c752396e-80a0-4bea-b3b0-448b86eabb68)
+
+
+<img width="634" alt="image" src="https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/ed61f5fc-8f8e-487d-9d32-3f9e41cb50d5">
+
 
 Discussion Page: 
-![image](https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/69bb7b23-b50f-40af-8115-98188a070f10)
+
+
+<img width="637" alt="image" src="https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/39f8103d-d2ce-480a-b85a-73660919ade3">
+
 
 People's profile page: 
-![image](https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/2a7d1b23-ee3a-4a83-a5c8-86d285a9aa0d)
+
+
+<img width="641" alt="image" src="https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/7ea5aaa2-9db5-429e-8f6c-4ab3379c38ed">
+
