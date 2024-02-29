@@ -1,7 +1,7 @@
 # Purdue-FrontEndUI
 
 Login Page: 
-![image](https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/2a0b6e7d-2efb-4b99-9b6c-c4e1c5e80e8a)
+![image](https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/cd425222-4969-4b33-9a1a-773651c690bb)
 
 Sign up page: 
 ![image](https://github.com/naman-bajpai/Purdue-FrontEndUI/assets/83026511/92b3e251-3362-417f-b839-6c8c90bf19d1)
